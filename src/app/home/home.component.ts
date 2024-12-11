@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrl: './home.component.css'
 })
 export class HomeComponent {
-
+  title = 'Ordering food has never been easier';
 }
