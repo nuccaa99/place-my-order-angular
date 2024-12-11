@@ -4,6 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
+    "api": "place-my-order-api --port 7070",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
@@ -18,6 +19,7 @@
     "@angular/platform-browser": "^17.3.0",
     "@angular/platform-browser-dynamic": "^17.3.0",
     "@angular/router": "^17.3.0",
+    "place-my-order-api": "^1.7.0",
     "place-my-order-assets": "^0.2.2",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
